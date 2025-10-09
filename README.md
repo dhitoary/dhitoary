@@ -1,95 +1,102 @@
-<div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center"> 
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dhito-aryo-trengginas-73491325b/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-<a href="mailto:aryodhito20@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
-</div>
+###
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DDhitoart.Dhitoart&"  />
+  <a href="https://www.linkedin.com/in/dhito-aryo-trengginas-73491325b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@dhitooary" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/dhitoary._" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
-<h1 align="left">Hey 👋, Ada apa?</h1>
+###
 
-<p align="left">Nama saya <strong>Dhito Aryo Trengginas</strong> dan saya seorang <strong>Mahasiswa Teknik Informatika</strong>, dari Universitas Lampung, Indonesia.</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhitoary.Dhitoary&"  />
+</div>
 
-<h2 align="left">🚀 Tentang Saya</h2>
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Dhito Aryo Trengginas and I'm an Informatics Engineering Student from Bandar Lampung, Indonesia.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
 
 <p align="left">
-✨ Mulai membuat (dan memperbaiki) bug sejak 2021.
-
-
-
-
-📚 Saat ini sedang mendalami arsitektur perangkat lunak dan pengembangan web modern.
-
-
-
-
-🎯 Tujuan: Berkontribusi secara nyata pada inovasi digital dan menciptakan solusi yang efisien.
-
-
-
-
-🎲 Fakta Unik: Saya percaya bahwa <i>"excellence is a journey, not a destination"</i>.
+  ✨ Creating bugs since 2023<br>
+  📚 I'm currently deepening my knowledge in software development, data science, and database engineering.<br>
+  🎯 Goals: Become a Full-Stack Developer, master the Internet of Things, and explore the field of Data Science.<br>
+  🎲 Fun fact: I enjoy turning complex ideas into reality through various software development and IoT projects.
 </p>
 
-<h2 align="left">💻 Bahasa & Teknologi yang Dikuasai</h2>
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhitoary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhitoary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Dhitoary&theme=dracula&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDhitoart%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Den%26hide_border%3Dfalse" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DDhitoart%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddracula%26hide_border%3Dfalse" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dhitoary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
-
-<div align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dhito-aryo-trengginas-73491325b/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="mailto:aryodhito20@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-</div>
+###
 
 <br clear="both">
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Dhitoart/Dhitoart/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
