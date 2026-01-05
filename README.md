@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dhito-aryo-trengginas-73491325b" target="_blank">
+  <a href="https://www.linkedin.com/in/dhito-aryo-trengginas-1b8866293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@dhitooary" target="_blank">
@@ -199,7 +199,7 @@ const dhito = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhito-aryo-trengginas-73491325b)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhito-aryo-trengginas-1b8866293)
   [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhitooary)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhitoary._)
   
@@ -207,7 +207,7 @@ const dhito = {
   
   **💬 Always open to interesting conversations and collaboration opportunities!**
   
-  📧 **Email:** dhito.aryo@student.unila.ac.id
+  📧 **Email:** aryodhito20@gmail.com
   
 </div>
 
