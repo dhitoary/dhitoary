@@ -182,15 +182,32 @@ const dhito = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+
+## 💭 Inspirational Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <table>
+    <tr>
+      <td align="center">
+        <br/>
+        <img src="https://media.giphy.com/media/l378niBw6nOQU5JXW/giphy.gif" width="60" />
+        <br/><br/>
+        <b>💡 "Don't compare yourself with anyone in this world. If you do so, you are insulting yourself."</b>
+        <br/>
+        <i>~ Bill Gates</i>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
