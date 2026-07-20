@@ -179,17 +179,15 @@ const dhito = {
 
 ---
 
-## Contribution Snake
+## Contribution Snake 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake.svg">
+<div align="center">  
+  <picture>    
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">    
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">    
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">  
   </picture>
 </div>
-
-> ⚠️ Grafik snake ini hanya akan muncul jika kamu sudah men-setup GitHub Action **platane/snk** di repo profil (`Dhitoary/Dhitoary`), yang otomatis meng-generate file SVG ini secara terjadwal. Lihat panduan di [github.com/Platane/snk](https://github.com/Platane/snk).
 
 ---
 
