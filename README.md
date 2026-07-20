@@ -161,21 +161,25 @@ const dhito = {
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320&cache_seconds=1800" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320&cache_seconds=1800" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&mode=daily" height="180" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&mode=daily" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhitoary&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" alt="activity graph" />
 </div>
 
+<!-- 
+  Note: github-profile-trophy public instance is currently down/requires payment.
+  To use this, you need to self-host it or wait for a stable public instance.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhitoary&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </div>
+-->
 
 ---
 
