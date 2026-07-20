@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;IoT+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Creating+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer;IoT+Enthusiast;Data+Science+Explorer;Creating+Digital+Magic" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 ```typescript
 const dhito = {
     name: "Dhito Aryo Trengginas",
-    location: "Lampung, Indonesia 🇮🇩",
+    location: "Lampung, Indonesia",
     education: "Informatics Engineering Student",
     university: "University of Lampung",
     role: "Full-Stack Developer | IoT Engineer | Data Enthusiast",
@@ -44,7 +44,7 @@ const dhito = {
         "Contributing to open source projects"
     ],
     
-    lifePhilosophy: "Code is poetry, bugs are just plot twists 🎭",
+    lifePhilosophy: "Code is poetry, bugs are just plot twists",
     
     workingOn: {
         frontend: ["React", "Next.js", "Vue.js"],
@@ -54,23 +54,23 @@ const dhito = {
         iot: ["Arduino", "ESP32", "Raspberry Pi"]
     },
     
-    funFact: "I debug with console.log() and I'm not ashamed 😎"
+    funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
 
 <details>
-<summary><b>🎯 My Journey</b></summary>
+<summary><b>My Journey</b></summary>
 <br/>
 
-- 🎓 **2023** - Started my journey in software development
-- 💻 **2024** - Mastered full-stack web development
-- 🔥 **2025** - Expanding into IoT and Data Science
-- 🚀 **2026** - Building innovative projects and contributing to the tech community
+- **2023** - Started my journey in software development
+- **2024** - Mastered full-stack web development
+- **2025** - Expanding into IoT and Data Science
+- **2026** - Building innovative projects and contributing to the tech community
 
 </details>
 
 <details>
-<summary><b>🎨 What I Do</b></summary>
+<summary><b>What I Do</b></summary>
 <br/>
 
 ```diff
@@ -79,7 +79,7 @@ const dhito = {
 + Building IoT solutions for smart automation
 + Analyzing data to extract meaningful insights
 + Collaborating on open-source projects
-- Forgetting semicolons (still working on that 😅)
+- Forgetting semicolons (still working on that)
 ```
 
 </details>
@@ -89,7 +89,7 @@ const dhito = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <details open>
-<summary><b>💻 Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -103,7 +103,7 @@ const dhito = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>Backend Development</b></summary>
 <br/>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -113,7 +113,7 @@ const dhito = {
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>Mobile Development</b></summary>
 <br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -122,7 +122,7 @@ const dhito = {
 </details>
 
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>Database</b></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -132,7 +132,7 @@ const dhito = {
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
+<summary><b>Tools & DevOps</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -145,7 +145,7 @@ const dhito = {
 </details>
 
 <details open>
-<summary><b>🎨 Design & Productivity</b></summary>
+<summary><b>Design & Productivity</b></summary>
 <br/>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -158,15 +158,15 @@ const dhito = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320&cache_seconds=1800" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&mode=daily" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
@@ -179,20 +179,21 @@ const dhito = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhitoary/Dhitoary/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
+> ⚠️ Grafik snake ini hanya akan muncul jika kamu sudah men-setup GitHub Action **platane/snk** di repo profil (`Dhitoary/Dhitoary`), yang otomatis meng-generate file SVG ini secara terjadwal. Lihat panduan di [github.com/Platane/snk](https://github.com/Platane/snk).
+
 ---
 
-
-## 💭 Inspirational Quote
+## Inspirational Quote
 
 <div align="center">
   <table>
@@ -201,7 +202,7 @@ const dhito = {
         <br/>
         <img src="https://media.giphy.com/media/l378niBw6nOQU5JXW/giphy.gif" width="60" />
         <br/><br/>
-        <b>💡 "Don't compare yourself with anyone in this world. If you do so, you are insulting yourself."</b>
+        <b>"Don't compare yourself with anyone in this world. If you do so, you are insulting yourself."</b>
         <br/>
         <i>~ Bill Gates</i>
         <br/><br/>
@@ -212,7 +213,7 @@ const dhito = {
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -222,9 +223,9 @@ const dhito = {
   
   <br/>
   
-  **💬 Always open to interesting conversations and collaboration opportunities!**
+  **Always open to interesting conversations and collaboration opportunities!**
   
-  📧 **Email:** aryodhito20@gmail.com
+  **Email:** aryodhito20@gmail.com
   
 </div>
 
@@ -236,9 +237,9 @@ const dhito = {
 
 <div align="center">
   
-  ### Show some ❤️ by starring some of the repositories!
+  ### Show some support by starring some of the repositories!
   
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+  ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
   ![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
   
 </div>
