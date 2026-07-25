@@ -159,8 +159,8 @@ const dhito = {
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320&cache_seconds=1800" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dhitoary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=600" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Dhitoary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=320&cache_seconds=600" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
