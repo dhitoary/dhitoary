@@ -166,7 +166,7 @@ const dhito = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&mode=daily" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Dhitoary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
