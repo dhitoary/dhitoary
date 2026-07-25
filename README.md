@@ -53,8 +53,6 @@ const dhito = {
         database: ["MySQL", "PostgreSQL"],
         iot: ["Arduino", "ESP32", "Raspberry Pi"]
     },
-    
-    funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
 
